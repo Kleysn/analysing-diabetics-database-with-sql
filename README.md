@@ -1,1 +1,1 @@
-# analysing-diabetics-database-with-sql
+# analise-python-sql
